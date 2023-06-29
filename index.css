@@ -1,0 +1,21 @@
+
+
+body {
+    font-family: 'Bai Jamjuree', sans-serif;
+    background-color: black;
+}
+
+#dp {
+    max-width: 350px;
+}
+
+#bgcontainer {
+    background: url(https://img.freepik.com/free-vector/digital-red-circuit-lines-technology-background-design_1017-27263.jpg?size=626&ext=jpg&ga=GA1.2.1200826938.1687178222&semt=ais);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+
+
+
