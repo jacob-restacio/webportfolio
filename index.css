@@ -1,19 +1,54 @@
-
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Bai Jamjuree', sans-serif;
+}
 
 body {
-    font-family: 'Bai Jamjuree', sans-serif;
-    background-color: black;
+    max-width: 100%;
 }
 
-#dp {
-    max-width: 350px;
+
+.nav-link{
+    color: black;
+    font-size: 1rem;
+    font-weight: 700;
+    cursor: pointer;
 }
 
-#bgcontainer {
-    background: url(https://img.freepik.com/free-vector/digital-red-circuit-lines-technology-background-design_1017-27263.jpg?size=626&ext=jpg&ga=GA1.2.1200826938.1687178222&semt=ais);
-    background-size: cover;
-    background-repeat: no-repeat;
+.navbar-brand {
+    color: black;
+    font-size: 2.5rem;
+    font-weight: 700;
+    font-style: bold;
 }
+
+
+
+#landing h3 {
+    font-size: 3rem;
+    font-weight: 700;
+}
+
+#landing h2, h1 {
+    font-size: 4rem;
+    font-weight: 700;
+}
+
+#landing {
+    width: 100%;
+}
+
+#landing img {
+    opacity: 90%;
+}
+
+.toolsimg, .contactimg {
+   width: 120px;
+}
+
+
 
 
 
